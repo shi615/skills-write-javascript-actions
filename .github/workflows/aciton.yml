@@ -1,5 +1,5 @@
 name: "Joke Action"
-description: "Fetches a random joke and exposes is as an output"
+description: "Fetches a random joke and exposes it as an output"
 
 outputs:
   joke:
